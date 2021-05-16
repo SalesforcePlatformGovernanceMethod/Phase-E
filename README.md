@@ -3,5 +3,5 @@
 </p>
 
 <p align='center'>
-  <h1>Phase E: Identity &amp; Access Management</h1>
+  <h1>Phase E: Integration</h1>
 </p>
